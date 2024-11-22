@@ -1,8 +1,25 @@
-# React + Vite
+# Frontend React - Gestion des Notes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Prérequis
+- **Node.js** (version 16 ou supérieure)
+- **npm** ou **yarn**
 
-Currently, two official plugins are available:
+## Installation
+1. **Cloner le projet :**
+   ```bash
+   git clone <url-du-repo>
+   cd <nom-du-repo>
+   ```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. **Installer les dépendances :**
+   ```bash
+   npm install
+   ```
+
+3. **Lancer le serveur de développement :**
+   ```bash
+   npm run dev
+   ```
+
+4. **Accéder à l'application :**
+   - Ouvrez votre navigateur et accédez à [http://localhost:5173](http://localhost:5173).
